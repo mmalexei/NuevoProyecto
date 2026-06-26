@@ -88,7 +88,7 @@ ORDER BY
 * Business intelligence tools like **Tableau**, **Power BI**, and **Excel** remain important, even for high-paying leadership roles.
 * The results show that top-paying jobs require a combination of programming, cloud computing, and data visualization skills.
 
-![Top paying jobs skills](assets\Skills_Required_in_Top-Paying_Jobs.png)
+![Top paying jobs skills](.assets\Skills_Required_in_Top-Paying_Jobs.png)
 
 ### Top demanded skills
 This section focuses on the skills that appear most frequently across all data-related job postings. It reveals the technologies and tools that employers consistently seek, providing a clear picture of the core competencies required to remain competitive in the data job market.

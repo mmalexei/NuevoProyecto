@@ -47,7 +47,7 @@ LIMIT 10;
 * **Senior Expertise is Rewarded:** **Principal Data Analyst** positions consistently offer salaries above **$180,000** per year.
 *  **100% Remote:** Every job in the top 10 is listed as **full-time** and **remote ("Anywhere")**, reflecting the strong demand for experienced data professionals in remote work environments.
 
-![Top paying roles](master\assets\Top_10_Highest-Paying_Data_Jobs.png)
+![Top paying roles](.\assets\Top_10_Highest-Paying_Data_Jobs.png)
 
 ### Top paying jobs skills
 This analysis examines the skills most commonly required for the highest-paying data jobs. By identifying the technologies and competencies associated with these positions, it helps determine which skills are valued by employers offering the highest salaries.

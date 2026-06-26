@@ -144,7 +144,7 @@ limit 50
 * Cloud and data engineering technologies, including **Terraform**, **Spark**, **Snowflake**, and **GCP**, also offer strong earning potential.
 * These results suggest that niche and advanced technical skills are often rewarded with higher salaries.
 
-![Top paying skills](assets\Highest-Paying_Skills.png)
+![Top paying skills](assets/Highest-Paying_Skills.png)
 
 ### Optimal skills
 This section combines salary and demand analyses to identify the most valuable skills in the data job market. These are skills that are both highly sought after by employers and associated with competitive salaries, making them excellent choices for professionals looking to improve their career prospects.

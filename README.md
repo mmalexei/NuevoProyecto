@@ -47,7 +47,7 @@ LIMIT 10;
 * **Senior Expertise is Rewarded:** **Principal Data Analyst** positions consistently offer salaries above **$180,000** per year.
 *  **100% Remote:** Every job in the top 10 is listed as **full-time** and **remote ("Anywhere")**, reflecting the strong demand for experienced data professionals in remote work environments.
 
-![Top paying roles](.\assets\Top_10_Highest-Paying_Data_Jobs.png)
+![Top paying roles](assets/Top_10_Highest-Paying_Data_Jobs.png)
 
 ### Top paying jobs skills
 This analysis examines the skills most commonly required for the highest-paying data jobs. By identifying the technologies and competencies associated with these positions, it helps determine which skills are valued by employers offering the highest salaries.
@@ -88,7 +88,7 @@ ORDER BY
 * Business intelligence tools like **Tableau**, **Power BI**, and **Excel** remain important, even for high-paying leadership roles.
 * The results show that top-paying jobs require a combination of programming, cloud computing, and data visualization skills.
 
-![Top paying jobs skills](.assets\Skills_Required_in_Top-Paying_Jobs.png)
+![Top paying jobs skills](assets/Skills_Required_in_Top-Paying_Jobs.png)
 
 ### Top demanded skills
 This section focuses on the skills that appear most frequently across all data-related job postings. It reveals the technologies and tools that employers consistently seek, providing a clear picture of the core competencies required to remain competitive in the data job market.
@@ -115,7 +115,7 @@ limit 5
 * **Tableau** and **Power BI** are the leading data visualization tools in demand.
 * Overall, employers prioritize a strong foundation in data querying, analysis, and visualization.
 
-![Most demanded skills](assets\Top_Most_Demanded_Skills.png)
+![Most demanded skills](assets/Top_Most_Demanded_Skills.png)
 
 ### Top paying skills
 This analysis ranks individual skills based on the average salaries of the jobs that require them. It highlights which technical skills are associated with higher compensation, helping professionals prioritize learning opportunities that can maximize their earning potential.
@@ -207,7 +207,7 @@ LIMIT 25
 * Database technologies like **Oracle** and **SQL Server** remain valuable skills for data professionals.
 * Developing skills that are both in demand and well compensated can provide the best long-term career opportunities in the data job market.
 
-![Optimal skills](assets\Top_Optimal_Skills.png)
+![Optimal skills](assets/Top_Optimal_Skills.png)
 
 ## Conclusions
 This project provided valuable insights into the current data-related job market by analyzing real-world job posting data using SQL and PostgreSQL. Through the exploration of salary trends, job demand, and required skills, it became clear that technical expertise plays a significant role in both employability and earning potential within the data industry.
